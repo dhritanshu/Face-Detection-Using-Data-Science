@@ -1,1 +1,1 @@
-# Face-Detection-Workshop
+# Face-Detection
